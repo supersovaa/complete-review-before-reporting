@@ -61,6 +61,10 @@ Once the executable review work is complete:
 - include any portion of the intended scope that could not be reviewed; and
 - make clear whether the review sequence has converged or further fixes and re-review are required.
 
+When reviewing a GitHub pull request, publish the consolidated result to that PR as a review submission or PR comment, including when there are no reportable findings.
+Confirm that the publication succeeded before reporting the PR review as complete in chat or another handoff.
+If publication fails or is unavailable, report the review result and the posting failure, and leave PR publication pending.
+
 ## Subsequent reviews and convergence
 
 A user-requested re-review after changes to the same target is part of the same convergence sequence unless the user materially changes the review target or criteria.
@@ -86,4 +90,5 @@ Before reporting review findings, confirm:
 - the executable review work for the current cycle is complete;
 - the findings are collected into one consolidated review result;
 - any portion that could not be reviewed is identified; and
-- for a re-review, convergence has been assessed and any newly found pre-existing issue has been considered against the prior-review-miss rule.
+- for a re-review, convergence has been assessed and any newly found pre-existing issue has been considered against the prior-review-miss rule; and
+- for a GitHub pull request review, the result has been posted to the PR successfully, or the pending publication and its cause have been reported.

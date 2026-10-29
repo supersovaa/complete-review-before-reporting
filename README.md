@@ -34,6 +34,11 @@ The surrounding review task remains responsible for choosing the review criteria
 Progress updates may describe review status or remaining work.
 Individual findings are reserved for the consolidated review result unless the user explicitly requests incremental reporting.
 
+## Pull request reviews
+
+For a GitHub pull request review, post the consolidated outcome to the PR as a review submission or comment, including a clear result when no reportable findings are found.
+Confirm the publication succeeded before declaring the PR review complete. If posting fails or is unavailable, report the review result and keep PR publication pending.
+
 ## Incomplete coverage
 
 When some intended scope cannot be reviewed because required information, access, tooling, or execution is unavailable, the final review identifies that portion.

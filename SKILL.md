@@ -89,6 +89,6 @@ Before reporting review findings, confirm:
 - reasonably discoverable issues were not intentionally deferred to a later review cycle;
 - the executable review work for the current cycle is complete;
 - the findings are collected into one consolidated review result;
-- any portion that could not be reviewed is identified; and
+- any portion that could not be reviewed is identified;
 - for a re-review, convergence has been assessed and any newly found pre-existing issue has been considered against the prior-review-miss rule; and
 - for a GitHub pull request review, the result has been posted to the PR successfully, or the pending publication and its cause have been reported.

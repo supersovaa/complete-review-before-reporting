@@ -1,15 +1,15 @@
 ---
 name: complete-review-before-reporting
-description: Complete the available review scope before reporting findings and drive repeated reviews toward convergence. Apply to code, documents, and other reviewable artifacts, including related canonical sources needed to judge correctness.
+description: Use for initial and follow-up reviews of code, documents, or other artifacts. Coordinate review coverage and reporting.
 ---
 
 # Complete Review Before Reporting
 
-Use this skill when reviewing code, documents, or other artifacts whose findings should be delivered as a consolidated result.
+Before reporting a cycle’s findings, finish the available review scope and consult the canonical sources needed to judge correctness. On a later cycle, apply the convergence rules to the fixes and affected scope.
 
 ## Purpose
 
-Complete the review work for the current review cycle before reporting its findings, and make repeated review-after-fix cycles converge instead of surfacing pre-existing issues a few at a time.
+Finish the available review scope before reporting the cycle’s findings. Use subsequent cycles to verify fixes and bring the review to a close.
 
 This skill governs review sequencing, reporting timing, the minimum scope expansion needed to judge correctness, and convergence behavior.
 The surrounding review task continues to determine the starting target, the review criteria to apply, and which findings are worth reporting.

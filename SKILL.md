@@ -1,6 +1,6 @@
 ---
 name: complete-review-before-reporting
-description: Review code, documents, or other artifacts as a whole before reporting findings. Use for consolidated reviews and review-after-fix cycles.
+description: Finish the available review scope before reporting findings on code, documents, or other artifacts. Include related canonical sources needed to judge correctness. Use for consolidated reviews and review-after-fix cycles.
 ---
 
 # Complete Review Before Reporting
